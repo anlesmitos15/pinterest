@@ -1,0 +1,16 @@
+.caja{ 
+    background: #FFF;      
+    position: sticky;
+    top: 0;          
+}
+.imaginate:hover{
+    width: 19rem !important;    /* clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    z-index: 25;  */
+    transition: 1s;
+
+}
+.superz{
+    z-index: 1000;
+}
+
+
