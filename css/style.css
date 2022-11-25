@@ -7,8 +7,12 @@
     width: 19rem !important;    /* clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
     z-index: 25;  */
     transition: 1s;
-
+    
 }
+.imaginate:hover img{
+    opacity: 0.60;
+}
+
 .superz{
     z-index: 1000;
 }
